@@ -10,12 +10,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/heba-abd-elhamed-a13074167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heba-abd-elhamed-a13074167" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/20854024/hebaabdelhamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hebaabdelhamed" height="30" width="40" /></a>
-    <a href="https://web.facebook.com/heba.abdelhamed.e/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heba.beboo.520" height="30" width="40" /></a>
-    <a href="https://instagram.com/__he_baa__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__he_baa__" height="30" width="40" /></a>
-     <a href="https://github.com/HebaAbdElhamed" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="HebaAbdElhamed" height="30" width="40" /></a>
-       <a href="mailto: hebaabdelhamede@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-3.svg" alt="hebaabdelhamede@gmail.com" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/ahmed-mahmoud-7601152a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-mahmoud-7601152a3" height="30" width="40" /></a>
+    <a href="https://web.facebook.com/ahmed.mahmoud.1048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.mahmoud.1048" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/mrahmedmahmoud25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrahmedmahmoud25" height="30" width="40" /></a>
+     <a href="https://github.com/Ahmedmahmoud27" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Ahmed" height="30" width="40" /></a>
+       <a href="mailto: ahmedmahmoudhassan272@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-3.svg" alt="ahmedmahmoudhassan272@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
